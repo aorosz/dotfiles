@@ -1,0 +1,7 @@
+[user]
+	email = pannii.orosz@gmail.com
+	name = Anna Orosz
+[core]
+	editor = vim
+[push]
+	default = simple
